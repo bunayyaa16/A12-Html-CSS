@@ -298,4 +298,31 @@ body {
   .footer-txt {
     margin-top: 0px;
   }
+  .letter {
+    width: 200px;
+  }
+  .content h1 {
+    font-size: 20px;
+  }
+  .content {
+    width: auto;
+  }
+  .content-item {
+    width: auto;
+    margin: 30px;
+  }
+  .content-items {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  .content p {
+    width: 300px;
+  }
+  .content-title {
+    width: 350px;
+  }
+  .footer-txt {
+    margin-top: 70px;
+  }
 }
