@@ -8,7 +8,7 @@ body {
 }
 .hero {
   margin-top: 100px;
-  background-image: url(/KelompokA12/assets/hero.png);
+  background-image: url(/assets/hero.png);
   background-size: cover;
 }
 
